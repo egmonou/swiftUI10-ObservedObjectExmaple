@@ -11,7 +11,7 @@ import SwiftUI
 struct ObservedObjectExmapleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HellowView()
         }
     }
 }
